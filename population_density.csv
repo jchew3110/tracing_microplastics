@@ -1,0 +1,121 @@
+Suburb,ABS_code,Year,Population_density
+Baulkham Hills (East),115011290,2018,2965.5
+Baulkham Hills (West) - Bella Vista,115011291,2018,1976.3
+West Pennant Hills,115011296,2018,1688.3
+Castle Hill - Central,115011553,2018,1914.9
+Castle Hill - East,115011554,2018,2698.4
+Castle Hill - North,115011555,2018,1834.8
+Castle Hill - South,115011556,2018,2457.3
+Castle Hill - West,115011557,2018,3361.9
+Cherrybrook,115011558,2018,2356.0
+Blacktown (East) - Kings Park,116011303,2018,2242.9
+Lalor Park - Kings Langley,116011307,2018,2201.7
+Seven Hills - Toongabbie,116011308,2018,2297.7
+Blacktown (South),116011560,2018,3871.5
+Marrickville,117021326,2018,4920.9
+Petersham - Stanmore,117021327,2018,7356.2
+Sydenham - Tempe - St Peters,117021328,2018,2206.6
+Darlinghurst,117031329,2018,14853.5
+Erskineville - Alexandria,117031330,2018,4286.8
+Glebe - Forest Lodge,117031331,2018,9756.7
+Newtown - Camperdown - Darlington,117031332,2018,8641.7
+Potts Point - Woolloomooloo,117031333,2018,16609.6
+Pyrmont - Ultimo,117031334,2018,16525.8
+Redfern - Chippendale,117031335,2018,12115.0
+Surry Hills,117031336,2018,13891.7
+Sydney - Haymarket - The Rocks,117031337,2018,7379.2
+Waterloo - Beaconsfield,117031338,2018,11240.5
+Bondi - Tamarama - Bronte,118011339,2018,8071.1
+Bondi Beach - North Bondi,118011340,2018,9619.6
+Bondi Junction - Waverly,118011341,2018,7376.6
+Centennial Park,118011342,2018,1.5
+Double Bay - Bellevue Hill,118011343,2018,5727.2
+Dover Heights,118011344,2018,6245.9
+Paddington - Moore Park,118011345,2018,4489.7
+Rose Bay - Vaucluse - Watsons Bay,118011346,2018,2465.9
+Woollahra,118011347,2018,6476.4
+Chullora,119011355,2018,359.0
+Yagoona - Birrong,119011361,2018,4028.0
+Belmore - Belfield,119021362,2018,4485.9
+Canterbury (South) - Campsie,119021363,2018,7031.0
+Kingsgrove (North) - Earlwood,119021364,2018,3106.3
+Punchbowl,119021366,2018,4244.3
+Roselands,119021367,2018,4028.1
+Lakemba,119021573,2018,8349.0
+Wiley Park,119021574,2018,7935.8
+Concord - Mortlake - Cabarita,120011383,2018,3751.4
+Concord West - North Strathfield,120011384,2018,5323.9
+Drummoyne - Rodd Point,120011385,2018,5266.0
+Five Dock - Abbotsford,120011386,2018,4737.2
+Balmain,120021387,2018,6662.0
+Leichhardt - Annandale,120021388,2018,6346.6
+Lilyfield - Rozelle,120021389,2018,4211.8
+Ashfield,120031390,2018,7189.0
+Burwood - Croydon,120031391,2018,6023.1
+Canterbury (North) - Ashbury,120031392,2018,3852.4
+Croydon Park - Enfield,120031393,2018,4597.5
+Dulwich Hill - Lewisham,120031394,2018,6829.7
+Haberfield - Summer Hill,120031395,2018,4121.0
+Homebush,120031396,2018,4841.3
+Strathfield,120031575,2018,4262.0
+Strathfield South,120031576,2018,1556.6
+Chatswood (East) - Artarmon,121011398,2018,6167.6
+Chatswood (West) - Lane Cove North,121011399,2018,4142.0
+Lane Cove - Greenwich,121011400,2018,3209.7
+St Leonards - Naremburn,121011401,2018,4273.5
+Willoughby - Castle Cove - Northbridge,121011402,2018,2514.2
+Normanhurst - Thornleigh - Westleigh,121021406,2018,1921.3
+Waitara - Wahroonga (West),121021579,2018,5058.5
+Gordon - Killara,121031407,2018,1980.3
+Lindfield - Roseville,121031408,2018,2124.0
+Pymble,121031409,2018,1689.8
+St Ives,121031410,2018,1229.9
+Turramurra,121031411,2018,983.0
+Wahroonga (East) - Warrawee,121031412,2018,1392.7
+Cremorne - Cammeray,121041413,2018,6372.1
+Crows Nest - Waverton,121041414,2018,6603.4
+Mosman,121041415,2018,3569.5
+Neutral Bay - Kirribilli,121041416,2018,8801.2
+North Sydney - Lavender Bay,121041417,2018,6364.4
+Balgowlah - Clontarf - Seaforth,122011418,2018,2827.7
+Manly - Fairlight,122011419,2018,3594.0
+Forestville - Killarney Heights,122031427,2018,1504.9
+Frenchs Forest - Belrose,122031428,2018,875.3
+Homebush Bay - Silverwater,125011473,2018,2044.8
+Rookwood Cemetery,125011475,2018,1.0
+Auburn - Central,125011582,2018,5102.6
+Auburn - North,125011583,2018,6097.5
+Auburn - South,125011584,2018,3799.6
+Berala,125011585,2018,4597.2
+Lidcombe,125011586,2018,3514.5
+Regents Park,125011587,2018,2636.2
+Carlingford,125021476,2018,3116.0
+Ermington - Rydalmere,125021477,2018,2381.2
+Oatlands - Dundas Valley,125021478,2018,3165.7
+Chester Hill - Sefton,125031479,2018,2778.4
+Fairfield - East,125031480,2018,2888.4
+Granville - Clyde,125031481,2018,4059.0
+Greystanes - Pemulwuy,125031482,2018,2373.8
+Guildford - South Granville,125031483,2018,3414.1
+Guildford West - Merrylands West,125031484,2018,4086.8
+Merrylands - Holroyd,125031485,2018,4654.6
+Smithfield Industrial,125031486,2018,2.6
+Yennora Industrial,125031487,2018,6.7
+North Parramatta,125041489,2018,3459.2
+North Rocks,125041490,2018,1543.1
+Northmead,125041491,2018,3764.9
+Parramatta - Rosehill,125041492,2018,3973.8
+Toongabbie - Constitution Hill,125041493,2018,3091.9
+Winston Hills,125041494,2018,2585.4
+Pendle Hill - Girraween,125041588,2018,3114.0
+Wentworthville - Westmead,125041589,2018,4388.4
+Epping - North Epping,126011495,2018,3433.0
+Pennant Hills - Cheltenham,126011496,2018,1640.0
+Eastwood - Denistone,126021497,2018,3453.4
+Gladesville - Huntleys Point,126021498,2018,3296.9
+Hunters Hill - Woolwich,126021499,2018,2646.7
+Macquarie Park - Marsfield,126021500,2018,2232.4
+North Ryde - East Ryde,126021501,2018,2118.8
+West Ryde - Meadowbank,126021503,2018,4441.9
+Putney,126021590,2018,2800.4
+Ryde,126021591,2018,4269.1
